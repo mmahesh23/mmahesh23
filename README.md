@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mmahesh23
 - 👀 I’m interested in Learning 
 - 🌱 I’m currently learning Machine learning with python , cloud computing
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/maheshbabu23/
 
 <!---
